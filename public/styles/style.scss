@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+  color: aquamarine;
+}
+
+table,
+th,
+tr,
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 0.25rem;
+  text-align: center;
+  background-color: rgb(21, 84, 84);
+}
